@@ -1,0 +1,24 @@
+<settings>
+  <DiscordRPC>False</DiscordRPC>
+  <ListenPort>47188</ListenPort>
+  <DarkMode>True</DarkMode>
+  <HideFromScreenCapture>False</HideFromScreenCapture>
+  <IPv6Support>False</IPv6Support>
+  <AutoListen>False</AutoListen>
+  <ShowPopup>True</ShowPopup>
+  <UseUPnP>False</UseUPnP>
+  <ShowToolTip>False</ShowToolTip>
+  <EnableNoIPUpdater>False</EnableNoIPUpdater>
+  <EventLog>False</EventLog>
+  <NoIPHost>
+  </NoIPHost>
+  <NoIPUsername>
+  </NoIPUsername>
+  <NoIPPassword>
+  </NoIPPassword>
+  <TelegramChatID>
+  </TelegramChatID>
+  <TelegramBotToken>
+  </TelegramBotToken>
+  <TelegramNotifications>False</TelegramNotifications>
+</settings>
